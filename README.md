@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Missionaries and Cannibals Visualizer
 
 A visual simulation of the classic Missionaries and Cannibals problem, demonstrating AI search algorithms and state transitions in an interactive and animated format.
@@ -16,3 +17,7 @@ Currently, two official plugins are available:
 ### Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enabling type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# roshanikinge-LogicBoat-
+"LogicBoat is an engaging visualization of the Missionaries and Cannibals puzzle, where users must apply logical reasoning to successfully ferry all characters across the river while following the puzzle's constraints.
+>>>>>>> 6d15f06c8c3a52f165027e1c8128e5139bd1b303
